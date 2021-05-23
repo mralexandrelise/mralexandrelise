@@ -7,7 +7,7 @@ English:
 
 Français:
 
-> **DigiFence** ce concentre sur la programmation securisée défensive 
+> **DigiFence** se concentre sur la programmation securisée défensive 
 > des applications **PHP**, principalement des extensions securisées pour **Joomla!** #blueteam #appsec
 
 
