@@ -25,4 +25,5 @@ En français
 * Facebook: https://www.facebook.com/mralexandrelise
 * Linkedin: https://www.linkedin.com/company/mralexandrelise
 * Youtube: [Coder.Parler.Partager.](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
-
+* Podcast: https://anchor.fm/coderparlerpartager
+* Slides: https://slides.com/mralexandrelise
