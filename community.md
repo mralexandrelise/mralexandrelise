@@ -4,7 +4,8 @@ In English:
 
 > Get in touch on social media or contact me directly
 
-* Website: https://alexapi.cloud/en
+* Website: https://alexandre-elise.fr/en
+* Blog: https://alexapi.cloud/en
 * Contact: https://alexapi.cloud/en/say-hello
 * Newsletter: https://alexapi.cloud/en/get-newsletter
 * Take an appointment: https://calendly.com/mralexandrelise
@@ -15,7 +16,8 @@ En français
 
 > Contactez-moi directement ou bien sur les réseaux sociaux
 
-* Site web: https://alexapi.cloud
+* Site web: https://alexandre-elise.fr
+* Blog: https://alexapi.cloud
 * Contact: https://alexapi.cloud/contact
 * Newsletter: https://alexapi.cloud/newsletter
 * Prendre rendez-vous: https://calendly.com/mralexandrelise
