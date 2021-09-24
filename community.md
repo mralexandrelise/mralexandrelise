@@ -8,7 +8,7 @@ In English:
 * Contact: https://alexapi.cloud/en/say-hello
 * Newsletter: https://alexapi.cloud/en/get-newsletter
 * Take an appointment: https://calendly.com/mralexandrelise
-
+* Leave your review: https://g.page/r/CTOrsttKakWDEBA
 ---------------------------------------------------
 
 En français
@@ -19,6 +19,7 @@ En français
 * Contact: https://alexapi.cloud/contact
 * Newsletter: https://alexapi.cloud/newsletter
 * Prendre rendez-vous: https://calendly.com/mralexandrelise
+* Laissez votre avis: https://g.page/r/CTOrsttKakWDEBA
 -------------------------------------------------------
 
 * Twitter: https://twitter.com/mralexandrelise
