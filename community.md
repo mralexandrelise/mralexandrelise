@@ -4,9 +4,9 @@ In English:
 
 > Get in touch on social media or contact me directly
 
-* Website: https://alexapi.cloud/
-* Contact: https://alexapi.cloud/say-hello
-* Newsletter: https://alexapi.cloud/get-newsletter
+* Website: https://alexandree.io/
+* Contact: https://alexandree.io/say-hello
+* Newsletter: https://alexandree.io/get-newsletter
 * Happy Clients: https://g.page/r/CTOrsttKakWDEBA
 ---------------------------------------------------
 
@@ -14,9 +14,9 @@ En français
 
 > Contactez-moi directement ou bien sur les réseaux sociaux
 
-* Site web: https://alexapi.cloud/fr
-* Contact: https://alexapi.cloud/fr/contact
-* Newsletter: https://alexapi.cloud/fr/newsletter
+* Site web: https://alexandree.io/fr
+* Contact: https://alexandree.io/fr/contact
+* Newsletter: https://alexandree.io/fr/newsletter
 * Clients Satisfaits: https://g.page/r/CTOrsttKakWDEBA
 -------------------------------------------------------
 
