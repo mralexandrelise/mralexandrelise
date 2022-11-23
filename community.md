@@ -1,4 +1,4 @@
-## COMMUNITY
+## CONTACT
 
 In English:
 
@@ -20,7 +20,7 @@ En français
 * Clients Satisfaits: https://g.page/r/CTOrsttKakWDEBA
 -------------------------------------------------------
 
-Community
+Social:
 
 * Github: https://github.com/alexandreelise
 * Twitter: https://twitter.com/mralexandrelise
