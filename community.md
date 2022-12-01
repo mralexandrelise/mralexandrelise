@@ -28,5 +28,6 @@ Social:
 * Linkedin Company: https://www.linkedin.com/company/mralexandrelise
 * Youtube: [Alex Tv](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
 * Podcast: [Alex Podcast](https://anchor.fm/alexpodcast)
+* Story: [Alex Story](https://story.alexandree.io)
 * JoomlaStackExchange: https://joomla.stackexchange.com/users/9588/mralexandrelise
 * Slides: https://slides.com/mralexandrelise
