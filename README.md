@@ -1,10 +1,6 @@
-Alex helps SME grow with their ambitions by "augmenting" their Joomla! website  capabilities using Web Services / Apis. #joomla #webservices #api. [GET STARTED NOW](https://alexandree.io/say-hello) 
+# Joomla Web Services Just For Startups.
 
-
-
-# Your Website. Augmented.
-
-Unleash The True Potential Of Your Joomla! Website With The Power Of Web Services / Apis [Learn more](https://alexandree.io)
+ It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
 
 <a href="https://joomla.stackexchange.com/users/9588/mralexandrelise"><img src="https://joomla.stackexchange.com/users/flair/9588.png" width="208" height="58" alt="profile for mralexandrelise at Joomla Stack Exchange, Q&amp;A for Joomla! administrators, users, developers and designers" title="profile for mralexandrelise at Joomla Stack Exchange, Q&amp;A for Joomla! administrators, users, developers and designers"></a>
 -----------------------------------------------------
@@ -27,10 +23,10 @@ In English:
 
 > Get in touch on social media or contact me directly
 
-* Website: https://alexandree.io/
-* Contact: https://alexandree.io/say-hello
-* Technical Blog: https://alexandree.io/blog-joomla-specialist
-* Newsletter: https://alexandree.io/get-newsletter
+* Website: https://apiadept.com/
+* Contact: https://apiadept.com/say-hello
+* Technical Blog: https://apiadept.com/blog-joomla-specialist
+* Newsletter: https://apiadept.com/get-newsletter
 * Happy Clients: https://g.page/r/CTOrsttKakWDEBA
 ---------------------------------------------------
 
@@ -38,10 +34,10 @@ En français
 
 > Contactez-moi directement ou bien sur les réseaux sociaux
 
-* Site web: https://alexandree.io/fr
-* Contact: https://alexandree.io/fr/contact
-* Blog Technique: https://alexandree.io/fr/blog-developpeur-joomla
-* Newsletter: https://alexandree.io/fr/newsletter
+* Site web: https://apiadept.com/fr
+* Contact: https://apiadept.com/fr/contact
+* Blog Technique: https://apiadept.com/fr/blog-developpeur-joomla
+* Newsletter: https://apiadept.com/fr/newsletter
 * Clients Satisfaits: https://g.page/r/CTOrsttKakWDEBA
 -------------------------------------------------------
 
