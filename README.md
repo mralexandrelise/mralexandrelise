@@ -1,4 +1,4 @@
-# Joomla Web Services Just For Startups.
+# Joomla Automation Just For Content Marketing Startups
 
  It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
 
