@@ -48,6 +48,5 @@ Social:
 * Linkedin: https://www.linkedin.com/in/alexandree
 * Linkedin Company: https://www.linkedin.com/company/mralexandrelise
 * Youtube: [Api Adept](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
-* Podcast: [Api Adept](https://apiadept.com/fr/blog-podcast-fr)
 * JoomlaStackExchange: https://joomla.stackexchange.com/users/9588/mralexandrelise
 * Slides: https://slides.com/mralexandrelise
