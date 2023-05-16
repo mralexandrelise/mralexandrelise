@@ -27,7 +27,6 @@ In English:
 * Contact: https://apiadept.com/say-hello
 * Technical Blog: https://apiadept.com/blog-joomla-specialist
 * Newsletter: https://apiadept.com/get-newsletter
-* Happy Clients: https://g.page/r/CTOrsttKakWDEBA
 ---------------------------------------------------
 
 En français
@@ -38,7 +37,6 @@ En français
 * Contact: https://apiadept.com/fr/contact
 * Blog Technique: https://apiadept.com/fr/blog-developpeur-joomla
 * Newsletter: https://apiadept.com/fr/newsletter
-* Clients Satisfaits: https://g.page/r/CTOrsttKakWDEBA
 -------------------------------------------------------
 
 Social:
