@@ -1,6 +1,9 @@
-# Joomla Automation Just For Content Marketing Startups
+# A.L.E.X - Artificial Lifeform Enhanced eXperiment. 
 
- It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
+> I like to see the code become "alive"
+> #php #lab #experiments #joomla
+
+It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
 
 <a href="https://joomla.stackexchange.com/users/9588/mralexandrelise"><img src="https://joomla.stackexchange.com/users/flair/9588.png" width="208" height="58" alt="profile for mralexandrelise at Joomla Stack Exchange, Q&amp;A for Joomla! administrators, users, developers and designers" title="profile for mralexandrelise at Joomla Stack Exchange, Q&amp;A for Joomla! administrators, users, developers and designers"></a>
 -----------------------------------------------------
