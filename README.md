@@ -1,6 +1,6 @@
 # A.L.E.X - Artificial Lifeform Enhanced eXperiment. 
 
-> I like to see the code become "alive"
+> R&D: I like to see the code become "alive"
 > #php #lab #experiments #joomla
 
 It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
