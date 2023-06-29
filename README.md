@@ -2,6 +2,7 @@
 
 > R&D: I like to see the code become "alive"
 > #php #lab #experiments #joomla
+> Zechariah 4:6
 
 It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
 
