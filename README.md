@@ -24,7 +24,6 @@ In English:
 > Get in touch on social media or contact me directly
 
 * Website: https://apiadept.com/
-* Contact: https://apiadept.com/say-hello
 * Technical Blog: https://apiadept.com/blog-joomla-specialist
 * Newsletter: https://apiadept.com/get-newsletter
 ---------------------------------------------------
@@ -34,7 +33,6 @@ En français
 > Contactez-moi directement ou bien sur les réseaux sociaux
 
 * Site web: https://apiadept.com/fr
-* Contact: https://apiadept.com/fr/contact
 * Blog Technique: https://apiadept.com/fr/blog-developpeur-joomla
 * Newsletter: https://apiadept.com/fr/newsletter
 -------------------------------------------------------
@@ -43,6 +41,5 @@ Social:
 
 * GitHub: https://github.com/alexandreelise
 * Twitter: https://twitter.com/mralexandrelise
-* Youtube: [Api Adept](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
+* Youtube: [Api Adept](https://www.youtube.com/@ApiAdept?sub_confirmation=1)
 * JoomlaStackExchange: https://joomla.stackexchange.com/users/9588/mralexandrelise
-* Slides: https://slides.com/mralexandrelise
