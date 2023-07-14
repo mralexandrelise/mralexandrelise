@@ -6,29 +6,20 @@
 
 It's time to be human again. Let automation do the rest. [Learn more](https://apiadept.com)
 
-## CONTACT
+-----------------------------------------------------
 
-In English:
+## LEARN MORE
 
-> Get in touch on social media or contact me directly
+> **Technical Blog Newsletter** : https://apiadept.com/get-newsletter
 
-* Website: https://apiadept.com/
-* Technical Blog: https://apiadept.com/blog-joomla-specialist
-* Newsletter: https://apiadept.com/get-newsletter
----------------------------------------------------
+-----------------------------------------------------
 
-En français
+## VIDEO
 
-> Contactez-moi directement ou bien sur les réseaux sociaux
+> Video on **Api Adept** channel with **Mr Alexandre J-S William ELISÉ** presenting **Joomla! Api WITHOUT Super User : Least Privilege Principle**
 
-* Site web: https://apiadept.com/fr
-* Blog Technique: https://apiadept.com/fr/blog-developpeur-joomla
-* Newsletter: https://apiadept.com/fr/newsletter
--------------------------------------------------------
+[![Video on Api Adept channel with Mr Alexandre J-S William ELISÉ presenting Joomla! Api WITHOUT Super User : Least Privilege Principle](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
 
-Social:
+-----------------------------------------------------
 
-* GitHub: https://github.com/alexandreelise
-* Twitter: https://twitter.com/mralexandrelise
-* Youtube: [Api Adept](https://www.youtube.com/@ApiAdept?sub_confirmation=1)
-* JoomlaStackExchange: https://joomla.stackexchange.com/users/9588/mralexandrelise
+
