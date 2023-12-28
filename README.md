@@ -1,10 +1,10 @@
-# Your Website. Augmented.
+# Hello Super Joomlers!
 
 > [!TIP]
 > Don't let technical problems KILL your AMBITIONS. 
 
 > [!NOTE]
-> Research and Development with PHP and Joomla. [Learn more](https://apiadept.com)
+> [Learn more](https://apiadept.com)
 
 -----------------------------------------------------
 
