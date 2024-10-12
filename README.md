@@ -1,4 +1,4 @@
-# Hello Super Joomlers!
+# Your Website. Augmented.
 
 > [!TIP]
 > Don't let technical problems KILL your AMBITIONS. 
