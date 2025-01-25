@@ -1,19 +1,23 @@
-# Your Website. Augmented.
+# Votre Site Web. Augmenté.
+
+## Les possibilités de votre site web Joomla, "Augmentées" grâce aux APIs
 
 > [!TIP]
-> Don't let technical problems KILL your AMBITIONS. 
+> J'aide les TPE/PME qui ont des projets **ATYPIQUES** à grandir avec leurs **AMBITIONS**...
+> 
+> Ne laissez pas les problèmes techniques **TUER** vos **AMBITIONS** 
 
 > [!NOTE]
-> [Learn more](https://apiadept.com)
+> [Découvrez plus...](https://apiadept.com)
 
 -----------------------------------------------------
 
 
 ## VIDEO
 
-> Video on **Api Adept** channel with **Mr Alexandre J-S William ELISÉ** presenting **Joomla! Api WITHOUT Super User : Least Privilege Principle**
+> Video sur la chaine YouTube **Api Adept** avec **Mr Alexandre J-S William ELISÉ** presentant **Les Web Services Joomla! SANS être Super Admin : Principe du moindre privilège**
 
-[![Video on Api Adept channel with Mr Alexandre J-S William ELISÉ presenting Joomla! Api WITHOUT Super User : Least Privilege Principle](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
+[![Video sur la chaine YouTube Api Adept avec Mr Alexandre J-S William ELISÉ presentant Les Web Services Joomla! SANS être Super Admin : Principe du moindre privilège](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
 
 -----------------------------------------------------
 
