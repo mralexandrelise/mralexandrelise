@@ -10,6 +10,10 @@
 > [!NOTE]
 > [Découvrez plus...](https://apiadept.com)
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mralexandrelise.mralexandrelise&style=flat&format=true)
+![GitHub followers](https://img.shields.io/github/followers/mralexandrelise?style=flat)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCya8rIL-PVHm8Mt4QPW-xw?style=flat&label=YouTube%20%40ApiAdept%20vues)
+
 -----------------------------------------------------
 
 
