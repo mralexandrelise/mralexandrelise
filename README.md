@@ -21,7 +21,7 @@
 
 > Video sur la chaine YouTube **Api Adept** avec **Mr Alexandre J-S William ELISÉ** presentant **Les Web Services Joomla! SANS être Super Admin : Principe du moindre privilège**
 
-[![Video sur la chaine YouTube Api Adept avec Mr Alexandre J-S William ELISÉ presentant Les Web Services Joomla! SANS être Super Admin : Principe du moindre privilège](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
+[![fr-FR API Joomla : Le Mythe du Super Admin](https://img.youtube.com/vi/-5et3U47m3w/maxresdefault.jpg)](https://www.youtube.com/watch?v=-5et3U47m3w)
 
 -----------------------------------------------------
 
